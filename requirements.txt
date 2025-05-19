@@ -1,0 +1,4 @@
+pyshark
+matplotlib
+pandas
+python-dotenv
