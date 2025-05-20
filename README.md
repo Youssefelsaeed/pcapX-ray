@@ -68,7 +68,7 @@ python analyzer.py path/to/file.pcap --output report.json --format json --plot -
 ## 📁 Example PCAP Sources
 
 - [https://www.malware-traffic-analysis.net](https://www.malware-traffic-analysis.net)  
-  (Password for ZIPs: `malware-traffic-analysis.net`)
+  (Check their about page for the password for zips)
 
 ---
 
